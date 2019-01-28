@@ -1,0 +1,22 @@
+Website for users to upload screenshot folders.
+Database && script for tagging screenshots.
+  Nicknames, guilds, mark image for removal (empty~).
+  
+  E.g: "Populus [cA] is in this screenshot." 
+  Website query: Populus || [cA]
+    [list] img2018-01-01.jpg ..
+    
+------------------------------------------------------
+
+cA private forums (Basically done, need physical location for my server.)
+
+------------------------------------------------------
+
+Discord-bot
+
+Example: !bot guild add 500 boards
+
+!bot resources
+Bot - "There are currently 500 boards, 1 iron ingot in guildbank."
+
+------------------------------------------------------
